@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
   s.license       = 'MIT'
   s.homepage      = 'https://github.com/liveeditor/net_http_ssl_fix'
 
-  s.files         = `git ls-files`.split('\n')
+  s.files         = `git ls-files`.split("\n")
   s.require_paths = ['lib']
 end
