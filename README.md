@@ -1,5 +1,7 @@
 # Net::HTTP SSL Fix Ruby Gem
 
+[![Build Status](https://secure.travis-ci.org/liveeditor/net_http_ssl_fix.svg?branch=master)](http://travis-ci.org/liveeditor/net_http_ssl_fix)
+
 A Community-updated `Net::HTTP` certificate authority file hack. Very useful for
 authoring Ruby-based HTTP clients that must run on Windows.
 
