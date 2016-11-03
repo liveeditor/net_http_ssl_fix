@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.0.6 - November 2, 2016
+
+-  [@chrisdpeters](https://github.com/chrisdpeters)
+   [updated](https://github.com/liveeditor/net_http_ssl_fix/commit/fd3ae10676eb9a403f7d281b513b6b2ce1dc01ba)
+   CA cert
+
 ## 0.0.5 - September 16, 2016
 
 -  [@chrisdpeters](https://github.com/chrisdpeters)
