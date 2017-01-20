@@ -53,7 +53,7 @@ Gist, [How to set the certificate file for Net::HTTP library-wide][1].
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Minimal Orange, LLC
+Copyright (c) 2016-2017 Minimal Orange, LLC
 
 [1]: https://gist.github.com/jjb/996510
 [2]: https://curl.haxx.se/ca/cacert.pem
